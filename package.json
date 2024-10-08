@@ -92,6 +92,9 @@
     "release-it": "^15.4.2",
     "release-it-lerna-changelog": "^5.0.0"
   },
+  "peerDependencies": {
+    "@ember/string": "^4.0.0"
+  },
   "engines": {
     "node": "12.* || 14.* || >= 16"
   },
